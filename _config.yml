@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.841484
 color:
-  saturation: 0.6863406
+  saturation: 1
   brandStrength: 0.9994009
-  lightness: 0.4283154
+  lightness: 1
   brandColors:
-    - '#FFFFFF'
-    - '#C7C8C5'
-    - '#1D222F'
-    - '#88897F'
-    - '#CECF91'
+    - '#BEC592'
+    - '#171615'
+    - '#FDFFFF'
+    - '#C5884B'
+    - '#CFD0CF'
   rhythmicContrast: 0.9032258
 layout_spectrum: 0.9229391
 name: Testing Out the Goods
