@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.841484
 color:
   saturation: 0.6863406
   brandStrength: 0.9994009
@@ -21,6 +22,5 @@ color:
     - '#88897F'
     - '#CECF91'
   rhythmicContrast: 0.9032258
-typography_spectrum: 0.841484
-layout_spectrum: 0.108769
+layout_spectrum: 0.9229391
 name: Testing Out the Goods
