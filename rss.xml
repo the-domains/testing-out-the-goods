@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testing Out the Goods]]></title>
+        <description><![CDATA[Testing Out the Goods]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 00:48:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Breakfast]]></title>
+            <description><![CDATA[<article><h1>Best Breakfast</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58226752-366a-493e-aa87-6b5f011d85db.png"></article>]]></description>
+            <link>undefinedbest-breakfast/index.html</link>
+            <guid isPermaLink="false">889553b6-ed63-4bab-8ccd-acfb2dc59942</guid>
+            <pubDate>Tue, 29 Mar 2016 00:47:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
