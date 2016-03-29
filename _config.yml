@@ -1,13 +1,26 @@
-layout_spectrum: 0.108769
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.841484
 color:
   saturation: 0.6863406
-  lightness: 0.6720067
   brandStrength: 0.9994009
+  lightness: 0.6720067
   brandColors:
-    - '#270D1F'
-    - '#C6B588'
-    - '#A3926E'
-    - '#F2FCDD'
+    - '#FFFFFF'
+    - '#C7C8C5'
+    - '#1D222F'
+    - '#88897F'
+    - '#CECF91'
   rhythmicContrast: 0.3499157
+layout_spectrum: 0.108769
 name: Testing Out the Goods
